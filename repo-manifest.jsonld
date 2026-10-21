@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-samp/commit/4843bcfdb31ddd6bf9a0df32f9f1ce458380ad03",
       "git:hexsha": "4843bcfdb31ddd6bf9a0df32f9f1ce458380ad03",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.2"
     },
     {
