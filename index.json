@@ -1,0 +1,11 @@
+{
+  "org": "glue-viz",
+  "repo": "glue-samp",
+  "versions": [
+    {
+      "commit": "4843bcfdb31ddd6bf9a0df32f9f1ce458380ad03",
+      "tag": "v0.2",
+      "parsed_at": "2026-10-21T21:42:14.238466+00:00"
+    }
+  ]
+}
